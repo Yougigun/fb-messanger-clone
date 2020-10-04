@@ -1,0 +1,35 @@
+.App{
+    /* width:720px;
+    margin: 0 auto; */
+    text-align: center;
+}
+/* 
+@media (max-width:800px){
+    .App{
+        width:90%
+    }
+} */
+
+.Form{
+    padding: 20px;
+    margin: 20px;
+    position: fixed;
+    bottom: 20px;
+    z-index: 1;
+    background-color: #e9e9eb;
+    width: 90%;
+    opacity: 100%;
+}
+.FormControl{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.Input{
+    flex:1;
+}
+.IconButton{
+    flex:0;
+}
