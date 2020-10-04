@@ -18,7 +18,7 @@
     z-index: 1;
     background-color: #e9e9eb;
     width: 90%;
-    opacity: 100% ;
+    opacity: 1 ;
 }
 .FormControl{
     display: flex !important;

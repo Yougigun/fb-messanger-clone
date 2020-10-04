@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fb-messanger-clone/static/css/main.9e5b9bec.chunk.css",
+    "main.css": "/fb-messanger-clone/static/css/main.53cec058.chunk.css",
     "main.js": "/fb-messanger-clone/static/js/main.3247f324.chunk.js",
     "main.js.map": "/fb-messanger-clone/static/js/main.3247f324.chunk.js.map",
     "runtime-main.js": "/fb-messanger-clone/static/js/runtime-main.4d226c9b.js",
@@ -8,16 +8,16 @@
     "static/js/2.e6b1e0e6.chunk.js": "/fb-messanger-clone/static/js/2.e6b1e0e6.chunk.js",
     "static/js/2.e6b1e0e6.chunk.js.map": "/fb-messanger-clone/static/js/2.e6b1e0e6.chunk.js.map",
     "index.html": "/fb-messanger-clone/index.html",
-    "precache-manifest.c9eca910c1a2a8ea6e03de7fc7cf5bd3.js": "/fb-messanger-clone/precache-manifest.c9eca910c1a2a8ea6e03de7fc7cf5bd3.js",
+    "precache-manifest.f181e05cd27d1285d064e6f838c306be.js": "/fb-messanger-clone/precache-manifest.f181e05cd27d1285d064e6f838c306be.js",
     "service-worker.js": "/fb-messanger-clone/service-worker.js",
-    "static/css/main.9e5b9bec.chunk.css.map": "/fb-messanger-clone/static/css/main.9e5b9bec.chunk.css.map",
+    "static/css/main.53cec058.chunk.css.map": "/fb-messanger-clone/static/css/main.53cec058.chunk.css.map",
     "static/js/2.e6b1e0e6.chunk.js.LICENSE.txt": "/fb-messanger-clone/static/js/2.e6b1e0e6.chunk.js.LICENSE.txt",
     "static/media/Messenger_Logo_Color_RGB.png": "/fb-messanger-clone/static/media/Messenger_Logo_Color_RGB.11b1e8bd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d226c9b.js",
     "static/js/2.e6b1e0e6.chunk.js",
-    "static/css/main.9e5b9bec.chunk.css",
+    "static/css/main.53cec058.chunk.css",
     "static/js/main.3247f324.chunk.js"
   ]
 }
