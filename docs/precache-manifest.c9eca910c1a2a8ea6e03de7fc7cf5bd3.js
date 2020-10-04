@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41bb75be5c105e197c9a665f6fccaf4c",
+    "revision": "1d32dec1dd89ec4cdf6247c6cd54837d",
     "url": "/fb-messanger-clone/index.html"
   },
   {
-    "revision": "c67d9d014d152b84a624",
-    "url": "/fb-messanger-clone/static/css/main.4f23c2ce.chunk.css"
+    "revision": "cd4bd0f33dfbb8c5a03b",
+    "url": "/fb-messanger-clone/static/css/main.9e5b9bec.chunk.css"
   },
   {
     "revision": "fdb54578297da38721c7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fb-messanger-clone/static/js/2.e6b1e0e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c67d9d014d152b84a624",
+    "revision": "cd4bd0f33dfbb8c5a03b",
     "url": "/fb-messanger-clone/static/js/main.3247f324.chunk.js"
   },
   {
